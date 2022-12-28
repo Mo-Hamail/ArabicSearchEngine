@@ -1,15 +1,13 @@
 # ArabicSearchEngine ARS
 Summary of work Done
 
-Since most Information Retrieval models are mathematically based, the question posed here is: is this sufficient for efficient retrieval of Arabic documents or the model still needs elaboration. To answer these questions, it was necessary to choose and test one of these IR models. Being a one vector-space approach, and a conceptual indexing technique, the Latent Semantic Indexing (LSI) model was chosen. This is because it overcomes the deficiencies of the other models. It achieved up to 30% better retrieval performance than the other techniques.
-
 This project went through two phases. 
-	The first was designing and implementing an experimental system based on this model.
+The first was designing and implementing an experimental system based on this model.
 	
-	The second was measuring the retrieval performance of this system applied to the Arabic
-	language, trying to improve its performance. This improvement of the performance involved
-	determining the problems faced and trying to handle them using the computational linguistics
-	techniques.
+The second was measuring the retrieval performance of this system applied to the Arabic
+language, trying to improve its performance. This improvement of the performance involved
+determining the problems faced and trying to handle them using the computational linguistics
+techniques.
   
   An experimental IR system (ARS) was designed and implemented based on the LSI model. It was the first time to apply the LSI retrieval model to Arabic. In order to measure the impact of adding linguistic techniques to the LSI model, three experiments were conducted. The Indexing size was calculated and the retrieval performance was measured using precision, recall and Van Rijsbergen combined measure. 
   
