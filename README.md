@@ -2,7 +2,7 @@
 Summary of work Done
 
 This project went through two phases. 
-The first was designing and implementing an experimental system based on this model.
+The first was designing and implementing an experimental system based on Latent Semantic Indexing (LSI) Model.
 	
 The second was measuring the retrieval performance of this system applied to the Arabic
 language, trying to improve its performance. This improvement of the performance involved
